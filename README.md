@@ -29,3 +29,7 @@ The dashboard is designed to help track total sales, profit, and units sold whil
 * Data Visualization – KPI Cards, Bar Charts, Line Charts, Donut Chart.
 
 * Business Analysis – Sales insights, performance tracking, profitability analysis.
+
+## Dashboard Preview
+
+[Screenshot](
