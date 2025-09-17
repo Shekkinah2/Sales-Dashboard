@@ -32,6 +32,5 @@ The dashboard is designed to help track total sales, profit, and units sold whil
 
 ## Dashboard Preview
 
-[Screenshot](https://github.com/Shekkinah2/Sales-Dashboard/blob/main/Screenshot.png)
 <img width="1235" height="853" alt="Screenshot" src="https://github.com/user-attachments/assets/c1da54e8-9876-4151-9900-c26e1beb8e9b" />
 
