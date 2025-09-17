@@ -34,3 +34,7 @@ The dashboard is designed to help track total sales, profit, and units sold whil
 
 <img width="1235" height="853" alt="Screenshot" src="https://github.com/user-attachments/assets/c1da54e8-9876-4151-9900-c26e1beb8e9b" />
 
+## Conclusion
+
+This Sales Dashboard provides a clear and interactive way to monitor sales performance across products, regions, and salespersons. By using Excel Pivot Tables, Charts, and Slicers, the dashboard makes data-driven decision-making easier and faster.
+
