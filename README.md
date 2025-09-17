@@ -9,6 +9,7 @@ The dashboard is designed to help track total sales, profit, and units sold whil
 ## 🚀 Features
 
 ✅ KPIs – Total Sales, Average Sales, Units Sold, and Profit.
+
 ✅ Filters – Region-wise, Product-wise, and Salesperson-wise filtering.
 ✅ Charts & Visuals –
     Units sold by product (Line chart)
